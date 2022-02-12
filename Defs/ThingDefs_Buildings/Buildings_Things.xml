@@ -124,7 +124,8 @@
       <li>Med_Learn_Intellectual</li>
       <li>Med_Learn_Shooting</li>
       <li>Med_Learn_Social</li>
-	  <li>Med_Learn_Book_Animals</li>
+
+      <li>Med_Learn_Book_Animals</li>
       <li>Med_Learn_Book_Artistic</li>
       <li>Med_Learn_Book_Construction</li>
       <li>Med_Learn_Book_Cooking</li>
@@ -228,7 +229,8 @@
       <li>Adv_Learn_Intellectual</li>
       <li>Adv_Learn_Shooting</li>
       <li>Adv_Learn_Social</li>
-	  <li>Adv_Learn_Book_Animals</li>
+
+      <li>Adv_Learn_Book_Animals</li>
       <li>Adv_Learn_Book_Artistic</li>
       <li>Adv_Learn_Book_Construction</li>
       <li>Adv_Learn_Book_Cooking</li>

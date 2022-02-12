@@ -4,8 +4,8 @@
 	<!-- To add a research tab, make a new ResearchTabDef here and then set the <tab> field of your research project to match it -->
 	
 	<ResearchTabDef>
-		<defName>Simple_Learning</defName>
-		<label>Simple Learning</label>
+		<defName>Simple_Learning_V2</defName>
+		<label>Simple Learning V2</label>
 	</ResearchTabDef>
 
 </Defs>

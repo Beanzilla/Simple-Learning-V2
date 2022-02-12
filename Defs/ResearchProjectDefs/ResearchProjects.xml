@@ -2,7 +2,7 @@
 <Defs>
 
   <ResearchProjectDef>
-    <tab>Simple_Learning</tab>
+    <tab>Simple_Learning_V2</tab>
     <defName>Neo_Desk_Build</defName>
     <label>Neolithic Desk</label>
     <description>Learn to build the Neolithic Desk</description>
@@ -13,7 +13,7 @@
   </ResearchProjectDef>
   
   <ResearchProjectDef>
-    <tab>Simple_Learning</tab>
+    <tab>Simple_Learning_V2</tab>
     <defName>Mid_Desk_Build</defName>
     <label>Learning Desk</label>
     <description>Learn to build the Learning Desk</description>
@@ -27,7 +27,7 @@
   </ResearchProjectDef>
   
   <ResearchProjectDef>
-    <tab>Simple_Learning</tab>
+    <tab>Simple_Learning_V2</tab>
     <defName>Adv_Desk_Build</defName>
     <label>Advanced Learning Desk</label>
     <description>Learn to build the Advanced Learning Desk</description>
@@ -42,7 +42,7 @@
   </ResearchProjectDef>
   
   <ResearchProjectDef>
-    <tab>Simple_Learning</tab>
+    <tab>Simple_Learning_V2</tab>
     <defName>Spacer_Desk_Build</defName>
     <label>Spacer Learning Desk</label>
     <description>Learn to build the Spacer Learning Desk</description>
@@ -76,7 +76,7 @@
   </ResearchProjectDef>
   
    <ResearchProjectDef>
-    <tab>Simple_Learning</tab>
+    <tab>Simple_Learning_V2</tab>
     <defName>Board_Build</defName>
     <label>Chalk Board</label>
     <description>Learn to build the Chalk Board</description>
@@ -107,7 +107,7 @@
 
 
 <ResearchProjectDef>
-    <tab>Simple_Learning</tab>
+    <tab>Simple_Learning_V2</tab>
     <defName>Author_Desk_Build</defName>
     <label>Author Desk</label>
     <description>Learn to build the author desk</description>
@@ -121,7 +121,7 @@
   </ResearchProjectDef>
   
   <ResearchProjectDef>
-    <tab>Simple_Learning</tab>
+    <tab>Simple_Learning_V2</tab>
     <defName>PrintingPress_Build</defName>
     <label>Printing Press</label>
     <description>Learn to build the printing press</description>
@@ -136,7 +136,7 @@
   </ResearchProjectDef>
   
   <ResearchProjectDef>
-    <tab>Simple_Learning</tab>
+    <tab>Simple_Learning_V2</tab>
     <defName>Bookshelf_Build</defName>
     <label>Bookshelves</label>
     <description>Learn to build the bookshelf</description>
@@ -153,7 +153,7 @@
   
   
   <ResearchProjectDef>
-    <tab>Simple_Learning</tab>
+    <tab>Simple_Learning_V2</tab>
     <defName>Spacer_Bookshelf_Build</defName>
     <label>Spacer bookshelf</label>
     <description>Learn to build the Spacer Bookshelf</description>
@@ -168,7 +168,7 @@
   
   
     <ResearchProjectDef>
-    <tab>Simple_Learning</tab>
+    <tab>Simple_Learning_V2</tab>
     <defName>DataCore_Build</defName>
     <label>Data Core</label>
     <description>Learn to make data cores</description>
