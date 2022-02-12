@@ -424,7 +424,7 @@
         <jobString>Training in animals.</jobString>
         <workAmount>400</workAmount>
         <effectWorking>Research</effectWorking>
-        <workSkillLearnFactor>30</workSkillLearnFactor>
+        <workSkillLearnFactor>35</workSkillLearnFactor>
         <workSkill>Animals</workSkill>
     </RecipeDef>
 
@@ -435,7 +435,7 @@
         <jobString>Training in art.</jobString>
         <workAmount>400</workAmount>
         <effectWorking>Research</effectWorking>
-        <workSkillLearnFactor>30</workSkillLearnFactor>
+        <workSkillLearnFactor>35</workSkillLearnFactor>
         <workSkill>Artistic</workSkill>
     </RecipeDef>
 
@@ -446,7 +446,7 @@
         <jobString>Training in construction.</jobString>
         <workAmount>400</workAmount>
         <effectWorking>Research</effectWorking>
-        <workSkillLearnFactor>30</workSkillLearnFactor>
+        <workSkillLearnFactor>35</workSkillLearnFactor>
         <workSkill>Construction</workSkill>
     </RecipeDef>
 
@@ -457,7 +457,7 @@
         <jobString>Training in cooking.</jobString>
         <workAmount>400</workAmount>
         <effectWorking>Research</effectWorking>
-        <workSkillLearnFactor>30</workSkillLearnFactor>
+        <workSkillLearnFactor>35</workSkillLearnFactor>
         <workSkill>Cooking</workSkill>
         <workSpeedStat>CookSpeed</workSpeedStat>
     </RecipeDef>
@@ -469,7 +469,7 @@
         <jobString>Training in crafting.</jobString>
         <workAmount>400</workAmount>
         <effectWorking>Research</effectWorking>
-        <workSkillLearnFactor>30</workSkillLearnFactor>
+        <workSkillLearnFactor>35</workSkillLearnFactor>
         <workSkill>Crafting</workSkill>
     </RecipeDef>
 
@@ -480,7 +480,7 @@
         <jobString>Training in growing.</jobString>
         <workAmount>400</workAmount>
         <effectWorking>Research</effectWorking>
-        <workSkillLearnFactor>30</workSkillLearnFactor>
+        <workSkillLearnFactor>35</workSkillLearnFactor>
         <workSkill>Plants</workSkill>
     </RecipeDef>
 
@@ -491,7 +491,7 @@
         <jobString>Training in medicine.</jobString>
         <workAmount>400</workAmount>
         <effectWorking>Research</effectWorking>
-        <workSkillLearnFactor>30</workSkillLearnFactor>
+        <workSkillLearnFactor>35</workSkillLearnFactor>
         <workSkill>Medicine</workSkill>
     </RecipeDef>
 
@@ -502,7 +502,7 @@
         <jobString>Training in melee.</jobString>
         <workAmount>400</workAmount>
         <effectWorking>Research</effectWorking>
-        <workSkillLearnFactor>30</workSkillLearnFactor>
+        <workSkillLearnFactor>35</workSkillLearnFactor>
         <workSkill>Melee</workSkill>
     </RecipeDef>
 
@@ -513,7 +513,7 @@
         <jobString>Training in mining.</jobString>
         <workAmount>400</workAmount>
         <effectWorking>Research</effectWorking>
-        <workSkillLearnFactor>30</workSkillLearnFactor>
+        <workSkillLearnFactor>35</workSkillLearnFactor>
         <workSkill>Mining</workSkill>
     </RecipeDef>
 
@@ -524,7 +524,7 @@
         <jobString>Training in intellect.</jobString>
         <workAmount>400</workAmount>
         <effectWorking>Research</effectWorking>
-        <workSkillLearnFactor>30</workSkillLearnFactor>
+        <workSkillLearnFactor>35</workSkillLearnFactor>
         <workSkill>Intellectual</workSkill>
     </RecipeDef>
 
@@ -535,7 +535,7 @@
         <jobString>Training in shooting.</jobString>
         <workAmount>400</workAmount>
         <effectWorking>Research</effectWorking>
-        <workSkillLearnFactor>30</workSkillLearnFactor>
+        <workSkillLearnFactor>35</workSkillLearnFactor>
         <workSkill>Shooting</workSkill>
     </RecipeDef>
 
@@ -546,7 +546,7 @@
         <jobString>Training in social.</jobString>
         <workAmount>400</workAmount>
         <effectWorking>Research</effectWorking>
-        <workSkillLearnFactor>30</workSkillLearnFactor>
+        <workSkillLearnFactor>35</workSkillLearnFactor>
         <workSkill>Social</workSkill>
     </RecipeDef>
 
@@ -584,7 +584,7 @@ Doesn't work, because someone demands only 1 workSkill per recipe
         <jobString>Training in animals.</jobString>
         <workAmount>300</workAmount>
         <effectWorking>Research</effectWorking>
-        <workSkillLearnFactor>15</workSkillLearnFactor>
+        <workSkillLearnFactor>100</workSkillLearnFactor>
         <workSkill>Animals</workSkill>
 		<ingredients>
 			<li>
@@ -605,7 +605,7 @@ Doesn't work, because someone demands only 1 workSkill per recipe
         <jobString>Training in art.</jobString>
         <workAmount>300</workAmount>
         <effectWorking>Research</effectWorking>
-        <workSkillLearnFactor>15</workSkillLearnFactor>
+        <workSkillLearnFactor>100</workSkillLearnFactor>
         <workSkill>Artistic</workSkill>
 			<ingredients>
 			<li>
@@ -626,7 +626,7 @@ Doesn't work, because someone demands only 1 workSkill per recipe
         <jobString>Training in construction.</jobString>
         <workAmount>300</workAmount>
         <effectWorking>Research</effectWorking>
-        <workSkillLearnFactor>15</workSkillLearnFactor>
+        <workSkillLearnFactor>100</workSkillLearnFactor>
         <workSkill>Construction</workSkill>
 			<ingredients>
 			<li>
@@ -647,7 +647,7 @@ Doesn't work, because someone demands only 1 workSkill per recipe
         <jobString>Training in cooking.</jobString>
         <workAmount>300</workAmount>
         <effectWorking>Research</effectWorking>
-        <workSkillLearnFactor>15</workSkillLearnFactor>
+        <workSkillLearnFactor>100</workSkillLearnFactor>
         <workSkill>Cooking</workSkill>
         <workSpeedStat>CookSpeed</workSpeedStat>
 			<ingredients>
@@ -669,7 +669,7 @@ Doesn't work, because someone demands only 1 workSkill per recipe
         <jobString>Training in crafting.</jobString>
         <workAmount>300</workAmount>
         <effectWorking>Research</effectWorking>
-        <workSkillLearnFactor>15</workSkillLearnFactor>
+        <workSkillLearnFactor>100</workSkillLearnFactor>
         <workSkill>Crafting</workSkill>
 			<ingredients>
 			<li>
@@ -690,7 +690,7 @@ Doesn't work, because someone demands only 1 workSkill per recipe
         <jobString>Training in growing.</jobString>
         <workAmount>300</workAmount>
         <effectWorking>Research</effectWorking>
-        <workSkillLearnFactor>15</workSkillLearnFactor>
+        <workSkillLearnFactor>100</workSkillLearnFactor>
         <workSkill>Plants</workSkill>
 			<ingredients>
 			<li>
@@ -711,7 +711,7 @@ Doesn't work, because someone demands only 1 workSkill per recipe
         <jobString>Training in medicine.</jobString>
         <workAmount>300</workAmount>
         <effectWorking>Research</effectWorking>
-        <workSkillLearnFactor>15</workSkillLearnFactor>
+        <workSkillLearnFactor>100</workSkillLearnFactor>
         <workSkill>Medicine</workSkill>
 			<ingredients>
 			<li>
@@ -732,7 +732,7 @@ Doesn't work, because someone demands only 1 workSkill per recipe
         <jobString>Training in melee.</jobString>
         <workAmount>300</workAmount>
         <effectWorking>Research</effectWorking>
-        <workSkillLearnFactor>15</workSkillLearnFactor>
+        <workSkillLearnFactor>100</workSkillLearnFactor>
         <workSkill>Melee</workSkill>
 		<ingredients>
 			<li>
@@ -753,7 +753,7 @@ Doesn't work, because someone demands only 1 workSkill per recipe
         <jobString>Training in mining.</jobString>
         <workAmount>300</workAmount>
         <effectWorking>Research</effectWorking>
-        <workSkillLearnFactor>15</workSkillLearnFactor>
+        <workSkillLearnFactor>100</workSkillLearnFactor>
         <workSkill>Mining</workSkill>
 			<ingredients>
 			<li>
@@ -774,7 +774,7 @@ Doesn't work, because someone demands only 1 workSkill per recipe
         <jobString>Training in intellect.</jobString>
         <workAmount>300</workAmount>
         <effectWorking>Research</effectWorking>
-        <workSkillLearnFactor>15</workSkillLearnFactor>
+        <workSkillLearnFactor>100</workSkillLearnFactor>
         <workSkill>Intellectual</workSkill>
 			<ingredients>
 			<li>
@@ -795,7 +795,7 @@ Doesn't work, because someone demands only 1 workSkill per recipe
         <jobString>Training in shooting.</jobString>
         <workAmount>300</workAmount>
         <effectWorking>Research</effectWorking>
-        <workSkillLearnFactor>15</workSkillLearnFactor>
+        <workSkillLearnFactor>100</workSkillLearnFactor>
         <workSkill>Shooting</workSkill>
 		<ingredients>
 			<li>
@@ -816,7 +816,7 @@ Doesn't work, because someone demands only 1 workSkill per recipe
         <jobString>Training in social.</jobString>
         <workAmount>300</workAmount>
         <effectWorking>Research</effectWorking>
-        <workSkillLearnFactor>15</workSkillLearnFactor>
+        <workSkillLearnFactor>100</workSkillLearnFactor>
         <workSkill>Social</workSkill>
 			<ingredients>
 			<li>
@@ -839,7 +839,7 @@ Doesn't work, because someone demands only 1 workSkill per recipe
         <jobString>Training in animals.</jobString>
         <workAmount>300</workAmount>
         <effectWorking>Research</effectWorking>
-        <workSkillLearnFactor>25</workSkillLearnFactor>
+        <workSkillLearnFactor>200</workSkillLearnFactor>
         <workSkill>Animals</workSkill>
 		<ingredients>
 			<li>
@@ -860,7 +860,7 @@ Doesn't work, because someone demands only 1 workSkill per recipe
         <jobString>Training in art.</jobString>
         <workAmount>300</workAmount>
         <effectWorking>Research</effectWorking>
-        <workSkillLearnFactor>25</workSkillLearnFactor>
+        <workSkillLearnFactor>200</workSkillLearnFactor>
         <workSkill>Artistic</workSkill>
 			<ingredients>
 			<li>
@@ -881,7 +881,7 @@ Doesn't work, because someone demands only 1 workSkill per recipe
         <jobString>Training in construction.</jobString>
         <workAmount>300</workAmount>
         <effectWorking>Research</effectWorking>
-        <workSkillLearnFactor>25</workSkillLearnFactor>
+        <workSkillLearnFactor>200</workSkillLearnFactor>
         <workSkill>Construction</workSkill>
 			<ingredients>
 			<li>
@@ -902,7 +902,7 @@ Doesn't work, because someone demands only 1 workSkill per recipe
         <jobString>Training in cooking.</jobString>
         <workAmount>300</workAmount>
         <effectWorking>Research</effectWorking>
-        <workSkillLearnFactor>25</workSkillLearnFactor>
+        <workSkillLearnFactor>200</workSkillLearnFactor>
         <workSkill>Cooking</workSkill>
         <workSpeedStat>CookSpeed</workSpeedStat>
 			<ingredients>
@@ -924,7 +924,7 @@ Doesn't work, because someone demands only 1 workSkill per recipe
         <jobString>Training in crafting.</jobString>
         <workAmount>300</workAmount>
         <effectWorking>Research</effectWorking>
-        <workSkillLearnFactor>25</workSkillLearnFactor>
+        <workSkillLearnFactor>200</workSkillLearnFactor>
         <workSkill>Crafting</workSkill>
 			<ingredients>
 			<li>
@@ -945,7 +945,7 @@ Doesn't work, because someone demands only 1 workSkill per recipe
         <jobString>Training in growing.</jobString>
         <workAmount>300</workAmount>
         <effectWorking>Research</effectWorking>
-        <workSkillLearnFactor>25</workSkillLearnFactor>
+        <workSkillLearnFactor>200</workSkillLearnFactor>
         <workSkill>Plants</workSkill>
 			<ingredients>
 			<li>
@@ -966,7 +966,7 @@ Doesn't work, because someone demands only 1 workSkill per recipe
         <jobString>Training in medicine.</jobString>
         <workAmount>300</workAmount>
         <effectWorking>Research</effectWorking>
-        <workSkillLearnFactor>25</workSkillLearnFactor>
+        <workSkillLearnFactor>200</workSkillLearnFactor>
         <workSkill>Medicine</workSkill>
 			<ingredients>
 			<li>
@@ -987,7 +987,7 @@ Doesn't work, because someone demands only 1 workSkill per recipe
         <jobString>Training in melee.</jobString>
         <workAmount>300</workAmount>
         <effectWorking>Research</effectWorking>
-        <workSkillLearnFactor>25</workSkillLearnFactor>
+        <workSkillLearnFactor>200</workSkillLearnFactor>
         <workSkill>Melee</workSkill>
 		<ingredients>
 			<li>
@@ -1008,7 +1008,7 @@ Doesn't work, because someone demands only 1 workSkill per recipe
         <jobString>Training in mining.</jobString>
         <workAmount>300</workAmount>
         <effectWorking>Research</effectWorking>
-        <workSkillLearnFactor>25</workSkillLearnFactor>
+        <workSkillLearnFactor>200</workSkillLearnFactor>
         <workSkill>Mining</workSkill>
 			<ingredients>
 			<li>
@@ -1029,7 +1029,7 @@ Doesn't work, because someone demands only 1 workSkill per recipe
         <jobString>Training in intellect.</jobString>
         <workAmount>300</workAmount>
         <effectWorking>Research</effectWorking>
-        <workSkillLearnFactor>25</workSkillLearnFactor>
+        <workSkillLearnFactor>200</workSkillLearnFactor>
         <workSkill>Intellectual</workSkill>
 			<ingredients>
 			<li>
@@ -1050,7 +1050,7 @@ Doesn't work, because someone demands only 1 workSkill per recipe
         <jobString>Training in shooting.</jobString>
         <workAmount>300</workAmount>
         <effectWorking>Research</effectWorking>
-        <workSkillLearnFactor>25</workSkillLearnFactor>
+        <workSkillLearnFactor>200</workSkillLearnFactor>
         <workSkill>Shooting</workSkill>
 		<ingredients>
 			<li>
@@ -1071,7 +1071,7 @@ Doesn't work, because someone demands only 1 workSkill per recipe
         <jobString>Training in social.</jobString>
         <workAmount>300</workAmount>
         <effectWorking>Research</effectWorking>
-        <workSkillLearnFactor>25</workSkillLearnFactor>
+        <workSkillLearnFactor>200</workSkillLearnFactor>
         <workSkill>Social</workSkill>
 			<ingredients>
 			<li>
@@ -1089,12 +1089,12 @@ Doesn't work, because someone demands only 1 workSkill per recipe
 
 <RecipeDef>
         <defName>Spacer_Learn_Book_Animals</defName>
-        <label>train animals</label>
+        <label>train animals with a book</label>
         <description>training in animals.</description>
         <jobString>Training in animals.</jobString>
         <workAmount>400</workAmount>
         <effectWorking>Research</effectWorking>
-        <workSkillLearnFactor>8</workSkillLearnFactor>
+        <workSkillLearnFactor>300</workSkillLearnFactor>
         <workSkill>Animals</workSkill>
 		<ingredients>
 			<li>
@@ -1110,12 +1110,12 @@ Doesn't work, because someone demands only 1 workSkill per recipe
 
     <RecipeDef>
         <defName>Spacer_Learn_Book_Artistic</defName>
-        <label>train art</label>
+        <label>train art with a book</label>
         <description>training in art.</description>
         <jobString>Training in art.</jobString>
         <workAmount>400</workAmount>
         <effectWorking>Research</effectWorking>
-        <workSkillLearnFactor>8</workSkillLearnFactor>
+        <workSkillLearnFactor>300</workSkillLearnFactor>
         <workSkill>Artistic</workSkill>
 			<ingredients>
 			<li>
@@ -1131,12 +1131,12 @@ Doesn't work, because someone demands only 1 workSkill per recipe
 
     <RecipeDef>
         <defName>Spacer_Learn_Book_Construction</defName>
-        <label>train construction</label>
+        <label>train construction with a book</label>
         <description>training in construction.</description>
         <jobString>Training in construction.</jobString>
         <workAmount>400</workAmount>
         <effectWorking>Research</effectWorking>
-        <workSkillLearnFactor>8</workSkillLearnFactor>
+        <workSkillLearnFactor>300</workSkillLearnFactor>
         <workSkill>Construction</workSkill>
 			<ingredients>
 			<li>
@@ -1152,12 +1152,12 @@ Doesn't work, because someone demands only 1 workSkill per recipe
 
     <RecipeDef>
         <defName>Spacer_Learn_Book_Cooking</defName>
-        <label>train cooking</label>
+        <label>train cooking with a book</label>
         <description>training in cooking.</description>
         <jobString>Training in cooking.</jobString>
         <workAmount>400</workAmount>
         <effectWorking>Research</effectWorking>
-        <workSkillLearnFactor>8</workSkillLearnFactor>
+        <workSkillLearnFactor>300</workSkillLearnFactor>
         <workSkill>Cooking</workSkill>
         <workSpeedStat>CookSpeed</workSpeedStat>
 			<ingredients>
@@ -1174,12 +1174,12 @@ Doesn't work, because someone demands only 1 workSkill per recipe
 
     <RecipeDef>
         <defName>Spacer_Learn_Book_Crafting</defName>
-        <label>train crafting</label>
+        <label>train crafting with a book</label>
         <description>training in crafting.</description>
         <jobString>Training in crafting.</jobString>
         <workAmount>400</workAmount>
         <effectWorking>Research</effectWorking>
-        <workSkillLearnFactor>8</workSkillLearnFactor>
+        <workSkillLearnFactor>300</workSkillLearnFactor>
         <workSkill>Crafting</workSkill>
 			<ingredients>
 			<li>
@@ -1195,12 +1195,12 @@ Doesn't work, because someone demands only 1 workSkill per recipe
 
     <RecipeDef>
         <defName>Spacer_Learn_Book_Growing</defName>
-        <label>train growing</label>
+        <label>train growing with a book</label>
         <description>training in growing.</description>
         <jobString>Training in growing.</jobString>
         <workAmount>400</workAmount>
         <effectWorking>Research</effectWorking>
-        <workSkillLearnFactor>8</workSkillLearnFactor>
+        <workSkillLearnFactor>300</workSkillLearnFactor>
         <workSkill>Plants</workSkill>
 			<ingredients>
 			<li>
@@ -1216,12 +1216,12 @@ Doesn't work, because someone demands only 1 workSkill per recipe
 
     <RecipeDef>
         <defName>Spacer_Learn_Book_Medicine</defName>
-        <label>train medicine</label>
+        <label>train medicine with a book</label>
         <description>training in medicine.</description>
         <jobString>Training in medicine.</jobString>
         <workAmount>400</workAmount>
         <effectWorking>Research</effectWorking>
-        <workSkillLearnFactor>8</workSkillLearnFactor>
+        <workSkillLearnFactor>300</workSkillLearnFactor>
         <workSkill>Medicine</workSkill>
 			<ingredients>
 			<li>
@@ -1237,12 +1237,12 @@ Doesn't work, because someone demands only 1 workSkill per recipe
 
     <RecipeDef>
         <defName>Spacer_Learn_Book_Melee</defName>
-        <label>train melee</label>
+        <label>train melee with a book</label>
         <description>training in melee.</description>
         <jobString>Training in melee.</jobString>
         <workAmount>400</workAmount>
         <effectWorking>Research</effectWorking>
-        <workSkillLearnFactor>8</workSkillLearnFactor>
+        <workSkillLearnFactor>300</workSkillLearnFactor>
         <workSkill>Melee</workSkill>
 			<ingredients>
 			<li>
@@ -1258,12 +1258,12 @@ Doesn't work, because someone demands only 1 workSkill per recipe
 
     <RecipeDef>
         <defName>Spacer_Learn_Book_Mining</defName>
-        <label>train mining</label>
+        <label>train mining with a book</label>
         <description>training in mining.</description>
         <jobString>Training in mining.</jobString>
         <workAmount>400</workAmount>
         <effectWorking>Research</effectWorking>
-        <workSkillLearnFactor>8</workSkillLearnFactor>
+        <workSkillLearnFactor>300</workSkillLearnFactor>
         <workSkill>Mining</workSkill>
 			<ingredients>
 			<li>
@@ -1279,12 +1279,12 @@ Doesn't work, because someone demands only 1 workSkill per recipe
 
     <RecipeDef>
         <defName>Spacer_Learn_Book_Intellectual</defName>
-        <label>train intellectual</label>
+        <label>train intellectual with a book</label>
         <description>training in intellect.</description>
         <jobString>Training in intellect.</jobString>
         <workAmount>400</workAmount>
         <effectWorking>Research</effectWorking>
-        <workSkillLearnFactor>8</workSkillLearnFactor>
+        <workSkillLearnFactor>300</workSkillLearnFactor>
         <workSkill>Intellectual</workSkill>
 			<ingredients>
 			<li>
@@ -1300,12 +1300,12 @@ Doesn't work, because someone demands only 1 workSkill per recipe
 
     <RecipeDef>
         <defName>Spacer_Learn_Book_Shooting</defName>
-        <label>train shooting</label>
+        <label>train shooting with a book</label>
         <description>training in shooting.</description>
         <jobString>Training in shooting.</jobString>
         <workAmount>400</workAmount>
         <effectWorking>Research</effectWorking>
-        <workSkillLearnFactor>8</workSkillLearnFactor>
+        <workSkillLearnFactor>300</workSkillLearnFactor>
         <workSkill>Shooting</workSkill>
 			<ingredients>
 			<li>
@@ -1321,12 +1321,12 @@ Doesn't work, because someone demands only 1 workSkill per recipe
 
     <RecipeDef>
         <defName>Spacer_Learn_Book_Social</defName>
-        <label>train social</label>
+        <label>train social with a book</label>
         <description>training in social.</description>
         <jobString>Training in social.</jobString>
         <workAmount>400</workAmount>
         <effectWorking>Research</effectWorking>
-        <workSkillLearnFactor>8</workSkillLearnFactor>
+        <workSkillLearnFactor>300</workSkillLearnFactor>
         <workSkill>Social</workSkill>
 			<ingredients>
 			<li>
