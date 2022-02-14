@@ -62,7 +62,7 @@
   <!--    Chalk Boards    -->
   
   <ResearchProjectDef>
-    <tab>Simple_Learning</tab>
+    <tab>Simple_Learning_V2</tab>
     <defName>Neo_Board_Build</defName>
     <label>Neolithic Board</label>
     <description>Learn to build the Neolithic Board</description>
@@ -90,7 +90,7 @@
   </ResearchProjectDef>
   
    <ResearchProjectDef>
-    <tab>Simple_Learning</tab>
+    <tab>Simple_Learning_V2</tab>
     <defName>Spacer_Board_Build</defName>
     <label>Spacer Board</label>
     <description>Learn to build the Spacer Board</description>
